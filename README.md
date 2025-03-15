@@ -12,7 +12,7 @@
 - Add asynchronous functions for working with the contacts collection. In these functions, use the `fs` module and its methods `readFile()` and `writeFile()`. The respective functions should return the necessary data using the return operator. There should be no console output in the written functions.
 - Export the created functions.
 
-```node.js
+```js
 // contacts.js
 
 /*
